@@ -13,6 +13,7 @@ Welcome to my humble abode! These are all of my various software projects from s
 #### Current Favourite Technology: LLMs
 - Check out my hackathon project **EduForge** where I leveraged Cohere's Chat Generation Model to act as a study tool for students!
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunb26&hide=c++,html,starlark,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **sunb26/sunb26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
