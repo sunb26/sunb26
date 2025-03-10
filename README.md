@@ -1,6 +1,6 @@
 ### Hi/Bonjour/你好! 👋
 
-Welcome to my humble abode! These are all of my various software projects from school projects, hackathons, co-ops, and just when I have some free time.
+Welcome! These are all of my various software projects from school projects, hackathons, co-ops, and just when I have some free time.
 - 🌱 I’m super interested in all things software whether that is front-end, back-end, machine learning, database management, etc.!
 - 👯 I’m always looking for cool projects to work on and to try new languages or frameworks!
 - 📫 How to reach me: https://www.linkedin.com/in/sunb26/ (I really encourage you to connect with me!)
